@@ -1,0 +1,17 @@
+[
+    {
+        "title": "1. Australia is wider than the moon.",
+        "funfact": "The moon sits at 3,400 kilometers (2,113 miles) in diameter, while Australia’s diameter from east to west is almost 4,000 km (2,485 miles).",
+        "imageURL": "imgFunfact/image1.jpg"
+    },
+    {
+        "title": "2. Headphones can increase the bacteria in your ears.",
+        "funfact": "Wearing headphones for just an hour could increase the bacteria in your ears by 700 times. (Ew!)",
+        "imageUR": "imgFunfact/image2.jpg"
+    },
+    {
+        "title": "3. Avocados are not vegetables.",
+        "funfact": "Avocados are fruits because they are single-seeded berries.",
+        "imageURL": "imgFunfact/image3.jpg"
+    }
+]
